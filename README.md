@@ -97,7 +97,7 @@ The key files in this project are:
 - `controls.hpp`: The header file for controls.
 
 ```
-/SnakeGame
+/Snake-Game
 │
 ├── CMakeLists.txt         # CMake build file
 ├── snake.cpp              # Main game logic
