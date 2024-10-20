@@ -46,8 +46,8 @@ You can customize the controls in `snake.cpp`.
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/AshiShukla/snakeGame.git
-    cd snakeGame
+    git clone https://github.com/AshiShukla/Snake-Game.git
+    cd Snake-Game
     ```
 
 2. **Install SFML**:
